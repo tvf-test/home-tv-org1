@@ -17,5 +17,7 @@
 ## Bedienungsanleitung
 
 * [Menü-Taste / Auswahl](bedienungsanleitung/menue-taste-auswahl.md)
-* [Ok-Taste / Senderinformationen](bedienungsanleitung/ok-taste-senderinformationen.md)
+* [Ok-Taste / Senderinformationen](bedienungsanleitung/ok-taste-senderinformationen/README.md)
+  * [Senderwechsel](bedienungsanleitung/ok-taste-senderinformationen/senderwechsel.md)
+  * [Programmvorschau](bedienungsanleitung/ok-taste-senderinformationen/programmvorschau.md)
 
