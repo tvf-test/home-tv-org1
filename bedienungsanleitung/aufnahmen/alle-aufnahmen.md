@@ -12,5 +12,5 @@ Mit der **Nach-Unten-Taste** können Sie weitere ältere Aufnahmen ansteuern. Ne
 
 \*Links unten finden Sie eine Anzeige **Benutzt** vs \*Frei” wieviele Speicherplatz Ihnen noch zur Verfügung steht.
 
-### **Filtern** TODO h2. **Schauen** TODO h2. **Löschen** TODO h2. **Sperren** TODO
+## **Filtern** TODO h2. **Schauen** TODO h2. **Löschen** TODO h2. **Sperren** TODO
 

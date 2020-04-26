@@ -1,4 +1,4 @@
-# Packungsinhalt (TEST ORG11)
+# Packungsinhalt 111
 
 TEST ORG111 Die Amino Aria7x wird mit Netzteil für die Schweizer Norm geliefert, einem HDMI-Kable 2.0 und einem Ethernet Kabel der Länge 2.0 Meter. Standardmäßig wird die Aria7x mit der OAK Fernbedienung ausgeliefert.
 
@@ -9,7 +9,7 @@ TEST ORG111 Die Amino Aria7x wird mit Netzteil für die Schweizer Norm geliefert
 | Fernbedienung | ![](https://manula.r.sizr.io/large/user/16317/img/aria-7x-user-guide-en-6_v1.png) | Oak IR |
 | Netzteil |  | CH-Norm |
 
-### **Optionales Zubehör**
+## **Optionales Zubehör**
 
 Das Paket kann auch optionales Zubehör enthalten, das unten aufgeführt ist, abhängig von Ihrem Dienstanbieter.
 

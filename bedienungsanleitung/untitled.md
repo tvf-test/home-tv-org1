@@ -8,5 +8,3 @@ Im unteren Bereich des EPG-Programmführer-Fensters wird der **Titel**, **Sender
 
 Weitere Details finden Sie unter folgendem Abschnitt [3.8. Guide](https://admin.manula.com/editor-view.php?p=19423&v=21403&l=de&pt=536173#3-8-guide).
 
-
-

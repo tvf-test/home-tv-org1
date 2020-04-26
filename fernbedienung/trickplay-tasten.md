@@ -1,7 +1,5 @@
 # Trickplay-Tasten
 
-
-
 | **\#** | **Taste** | **Live-Betrieb** | **Start-Over-Betrieb** | **Replay-Betrieb** | **Ausblick** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | **Skip-Back** | An den Anfang einer laufenden Sendung springen | -10 Sekunden zurückspringen | -10 Sekunden zurückspringen |  |
@@ -22,6 +20,5 @@
 5. Vorpulen-Taste  
 6. Set-Top-Box Personal Videorecorder \(PVR\)  
 7. Play-Taste  
-8. Pause-Taste  
-
+8. Pause-Taste
 

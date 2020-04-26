@@ -1,7 +1,5 @@
 # Glossar
 
-
-
 | Sender | Ist der Programmveranstalter, wie z.Bsp. SRF 1, SRF Zwei, SRF Info, 3Plus, 4Plus, 5plus etc. |
 | :--- | :--- |
 

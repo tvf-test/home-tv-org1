@@ -1,6 +1,6 @@
 # Senderwechsel
 
-### **Live-Betrieb**
+## **Live-Betrieb**
 
 Mit der **Nach-Oben** / **Nach-Unten-Taste** steuern Sie den gewünschten Sender an.
 

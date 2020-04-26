@@ -3,9 +3,12 @@
 ![](https://manula.r.sizr.io/large/user/16317/img/aria-7x-user-guide-en-2.png)
 
 1. Power/Activity LED:  
-⁃ Blau = ein.  
-⁃ Blaues Blinken = Infrarot \(IR\)-Befehl empfangen.  
-⁃ Rot = Standby.
+
+   ⁃ Blau = ein.  
+
+   ⁃ Blaues Blinken = Infrarot \(IR\)-Befehl empfangen.  
+
+   ⁃ Rot = Standby.
 
 Das Fenster ist mit einer klaren Kunststofffolie geschützt. Diese sollte vor dem Gebrauch entfernt werden.
 

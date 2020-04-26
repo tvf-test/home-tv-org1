@@ -1,7 +1,5 @@
 # ARRIS REX Fernbedienung
 
-
-
 ![](https://manula.r.sizr.io/large/user/16317/img/arris-rex-fernbedienung_v2.png)
 
 | **Taste** | **Funktionen beim Fernsehen** |  | **Taste** | **Funktionen beim Fernsehen** |

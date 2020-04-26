@@ -1,7 +1,5 @@
 # Trickplay-Tasten
 
-
-
 Die **Skip-Back** und **Skip-Forward-Tasten** verändern Ihre Eigenschaften je nachdem ob Sie sich im **Live-Betrieb** , im **Replay-Betrieb** oder im **Guide** / EPG-Programmführer befinden. In der Folge werden wir Ihnen die Unterschiede erläutern.
 
 * Live-Betrieb
