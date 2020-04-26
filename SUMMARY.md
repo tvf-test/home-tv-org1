@@ -18,10 +18,14 @@
 
 * [Menü-Taste / Auswahl](bedienungsanleitung/menue-taste-auswahl.md)
 * [Ok-Taste / Senderinformationen](bedienungsanleitung/ok-taste-senderinformationen/README.md)
-  * [Untitled](bedienungsanleitung/ok-taste-senderinformationen/untitled.md)
   * [Senderwechsel](bedienungsanleitung/ok-taste-senderinformationen/senderwechsel.md)
   * [Programmvorschau](bedienungsanleitung/ok-taste-senderinformationen/programmvorschau.md)
   * [Guide / EPG-Programmführer](bedienungsanleitung/ok-taste-senderinformationen/guide-epg-programmfuehrer.md)
   * [Info-Timeout](bedienungsanleitung/ok-taste-senderinformationen/info-timeout.md)
-* [Untitled](untitled.md)
+* [Zurück-Taste](bedienungsanleitung/zurueck-taste.md)
+* [Guide-Taste](bedienungsanleitung/untitled.md)
+* [Info-Taste / Detailinformationen](bedienungsanleitung/info-taste-detailinformationen.md)
+* [Trickplay-Tasten](bedienungsanleitung/trickplay-tasten/README.md)
+  * [Live-Betrieb](bedienungsanleitung/trickplay-tasten/live-betrieb.md)
+  * [Replay-Betrieb](bedienungsanleitung/trickplay-tasten/replay-betrieb.md)
 
