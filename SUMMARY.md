@@ -4,7 +4,7 @@
 
 ## Installationsanleitung
 
-* [Packungsinhalt 111](installationsanleitung/packungsinhalt.md)
+* [Packungsinhalt 222](installationsanleitung/packungsinhalt.md)
 * [Übersicht Aria7x](installationsanleitung/uebersicht-aria7x.md)
 * [Installation](installationsanleitung/installation.md)
 
