@@ -6,7 +6,7 @@
 
 * [Packungsinhalt 222](installationsanleitung/packungsinhalt.md)
 * [Übersicht Aria7x](installationsanleitung/uebersicht-aria7x.md)
-* [Installation](installationsanleitung/installation.md)
+* [Installation TEST444](installationsanleitung/installation.md)
 
 ## Fernbedienung
 
