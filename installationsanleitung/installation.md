@@ -1,6 +1,6 @@
 # Installation [[[[ ORG1 ]]]]]
 
-Schalten Sie vor dem Anschliessen oder Trennen eines Kabels alle Systemgeräte \(TV, A/V-Verstärker usw.\) aus und trennen Sie das Gerät vom Stromnetz.
+TEST 333. Schalten Sie vor dem Anschliessen oder Trennen eines Kabels alle Systemgeräte \(TV, A/V-Verstärker usw.\) aus und trennen Sie das Gerät vom Stromnetz.
 
 ## **Ethernet -Kabel**
 
